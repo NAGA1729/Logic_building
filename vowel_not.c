@@ -11,7 +11,7 @@ int main(){
 		printf("Entered character %c is a Vowel\n",ch);
 	}
 	else{
-		printf("Entered character %c is not a Vowel\n",ch);
+		printf("Entered character %c is a Consonant\n",ch);
 	}
 	return 0;
 }
